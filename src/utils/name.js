@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const FALLBACK_NAME = "xhs-insight2";
+const FALLBACK_NAME = "xhs-insight";
 
 let cached = null;
 function skillName() {
