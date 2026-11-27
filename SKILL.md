@@ -6,6 +6,11 @@ name: xhs-insight
 description: "小红薯洞察数据只读技能：关键词搜笔记、爆款选题、笔记详情、评论舆情、博主作品、粉丝获赞与收藏，输出 JSON，不登录不发布。触发词：小红书、小红薯、xhs、rednote、笔记链接、博主主页、竞品监控、KOL筛选、评论分析。用户要查小红书笔记、评论、选题、竞品或舆情时使用；抖音、快手、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.2.3
+display_name: "小红薯洞察数据｜关键词搜索·笔记表现·评论反馈·互动数据"
+display_name_en: "Xiaohongshu Insight"
+description_zh: "小红薯洞察公开数据（只读）：笔记详情、评论舆情、博主作品与粉丝获赞收藏、关键词搜笔记，为数据洞察提供结构化 JSON 数据"
+description_en: "Read-only Xiaohongshu public data insight skill: keyword search for notes and viral topics, single note detail, comment sentiment analysis, creator post lists, and follower/like/collection stats; up to 10,000 rows per pay-as-you-go call, with monthly caps of 40 searches / 30 posts / 20 comment queries, returning PLAN_LIMIT when exceeded; all returned as structured JSON, with no login and no posting, liking, commenting or following; for topic selection, competitor monitoring, KOL screening, engagement analytics and comment sentiment."
+author: "新郑市怪奇信息技术工作室"
 category: 数据分析
 homepage: https://www.guaikei.com
 metadata:
